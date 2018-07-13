@@ -48,14 +48,14 @@ go to your code base through command prompt<local repository>
   
   venv\Scripts\activate
   
-  Install Flask
+  #Install Flask
   
-  pip install Flask
-  SET FLASK_APP=fibboApp
-  SET FLASK_ENV=development
-  flask run
+  #pip install Flask
+  #SET FLASK_APP=fibboApp
+  #SET FLASK_ENV=development
+  #flask run
   
-  then hit the test URL in your browser
+  #then hit the test URL in your browser
   
   
   
