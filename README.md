@@ -28,6 +28,7 @@ $ export FLASK_ENV=development
 $ flask run
 
 #The application will be available at : http://localhost:5000/fibbonacci/api/v1.0/series/12
+in above test URL the number 12 says that the series will be generated till 12[the testing can be done with different number also]
 
 #Try other urls to get error messages
 
