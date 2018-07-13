@@ -32,3 +32,34 @@ $ flask run
 #Try other urls to get error messages
 
 #To run the test execute command pytest.
+
+
+
+
+For windows user:-
+
+
+go to your code base through command prompt<local repository>
+  run below command
+  
+  \Python27\Scripts\virtualenv.exe venv
+  then activate the vertual environment 
+  run below command
+  
+  venv\Scripts\activate
+  
+  Install Flask
+  
+  pip install Flask
+  SET FLASK_APP=fibboApp
+  SET FLASK_ENV=development
+  flask run
+  
+  then hit the test URL in your browser
+  
+  
+  
+  
+  
+  
+  
